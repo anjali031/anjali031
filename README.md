@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently student
 - 🌱 I’m currently learning Angular And Ionic
 - 👯 I’m looking to collaborate with others
